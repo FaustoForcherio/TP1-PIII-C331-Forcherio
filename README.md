@@ -5,8 +5,7 @@
 
 El trabajo fue hecho en conjunto con Tomas Leon Eivers Curto.
 
-- ¿Hay alguna mejora que pueda hacer en su envío?
-- ¿Qué haría de manera diferente si se le asignara más tiempo?
+¿Hay alguna mejora que pueda hacer en su envío? ¿Qué haría de manera diferente si se le asignara más tiempo?
 
 - Corregiriamos el tamaño de el carrete para hacerlo mas ajustable al responsive.
 - Haría mas correcciones esteticas.
